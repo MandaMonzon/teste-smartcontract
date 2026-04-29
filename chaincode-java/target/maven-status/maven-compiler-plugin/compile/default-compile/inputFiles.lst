@@ -1,0 +1,14 @@
+/workspaces/teste-smartcontract/chaincode-java/src/main/java/org/blockchain/epcis/models/AssociationEvent.java
+/workspaces/teste-smartcontract/chaincode-java/src/main/java/org/blockchain/epcis/models/EpcisEvent.java
+/workspaces/teste-smartcontract/chaincode-java/src/main/java/org/hyperledger/fabric/samples/assettransfer/models/AggregationEvent.java
+/workspaces/teste-smartcontract/chaincode-java/src/main/java/org/hyperledger/fabric/samples/assettransfer/contract/EpcisContract.java
+/workspaces/teste-smartcontract/chaincode-java/src/main/java/org/hyperledger/fabric/samples/assettransfer/models/QuantidadeItem.java
+/workspaces/teste-smartcontract/chaincode-java/src/main/java/org/hyperledger/fabric/samples/assettransfer/utils/EpcisParser.java
+/workspaces/teste-smartcontract/chaincode-java/src/main/java/org/blockchain/epcis/models/AggregationEvent.java
+/workspaces/teste-smartcontract/chaincode-java/src/main/java/org/hyperledger/fabric/samples/assettransfer/models/EventoEPCIS.java
+/workspaces/teste-smartcontract/chaincode-java/src/main/java/org/hyperledger/fabric/samples/assettransfer/models/AssociationEvent.java
+/workspaces/teste-smartcontract/chaincode-java/src/main/java/org/hyperledger/fabric/samples/assettransfer/models/SensorElement.java
+/workspaces/teste-smartcontract/chaincode-java/src/main/java/org/blockchain/epcis/utils/EpcisParser.java
+/workspaces/teste-smartcontract/chaincode-java/src/main/java/org/blockchain/epcis/models/SensorElement.java
+/workspaces/teste-smartcontract/chaincode-java/src/main/java/org/blockchain/epcis/models/QuantityElement.java
+/workspaces/teste-smartcontract/chaincode-java/src/main/java/org/blockchain/epcis/contract/EpcisContract.java
